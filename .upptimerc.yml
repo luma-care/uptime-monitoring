@@ -11,13 +11,9 @@ sites:
   - name: Lumatravel
     url: https://buy.lumatravel.com/
     icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
-    assignees:
-      - isarapongl
   - name: Quote Lumahealth
     url: https://quote.lumahealth.com/
     icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
-    assignees:
-      - nan-oo
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
   # - name: IPv6 test
