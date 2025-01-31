@@ -2,27 +2,27 @@
   {
     "name": "Lumahealth",
     "url": "https://www.lumahealth.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.lumahealth.com.ico",
+    "icon": "https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico",
     "slug": "lumahealth",
     "status": "down",
-    "uptime": "0.65%",
-    "uptimeDay": "0.65%",
-    "uptimeWeek": "0.65%",
-    "uptimeMonth": "0.65%",
-    "uptimeYear": "0.65%",
-    "time": 80,
-    "timeDay": 80,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 81,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {
-      "2025-01-31": 0
+      "2025-01-31": 1
     }
   },
   {
     "name": "Lumatravel",
     "url": "https://buy.lumatravel.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/buy.lumatravel.com.ico",
+    "icon": "https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico",
     "slug": "lumatravel",
     "status": "up",
     "uptime": "100.00%",
@@ -30,11 +30,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2680,
-    "timeDay": 2680,
-    "timeWeek": 2680,
-    "timeMonth": 2680,
-    "timeYear": 2680,
+    "time": 2343,
+    "timeDay": 2343,
+    "timeWeek": 2343,
+    "timeMonth": 2343,
+    "timeYear": 2343,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Quote Lumahealth",
+    "url": "https://quote.lumahealth.com/",
+    "icon": "https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico",
+    "slug": "quote-lumahealth",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 90,
+    "timeDay": 90,
+    "timeWeek": 90,
+    "timeMonth": 90,
+    "timeYear": 90,
+    "dailyMinutesDown": {
+      "2025-01-31": 0
+    }
   }
 ]
