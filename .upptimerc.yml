@@ -5,29 +5,29 @@ repo: uptime-monitoring # The name of this repository
 sites:
   - name: Lumahealth
     url: $LUMAHEALTH_URL
-    icon: $ICON
+    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
     assignees:
       - copterjs
       
   - name: Lumatravel
     url: $LUMATRAVEL_URL
-    icon: $ICON
+    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
     
   - name: Quote Lumahealth
     url: $QUOTE_URL
-    icon: $ICON
+    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
     
   - name: LuMagic
     url: $LUMAGIC_URL
-    icon: $ICON
+    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
     
   - name: Online Service
     url: $ONLINE_SERVICE_URL
-    icon: $ICON
+    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
 
   - name: Lumagix API
     url: $LUMAGIX_API_URL
-    icon: $ICON
+    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
     
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
@@ -44,7 +44,7 @@ status-website:
   baseUrl: /uptime-monitoring
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Luma Uptime Monitoring
-  favicon: $ICON
+  favicon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
