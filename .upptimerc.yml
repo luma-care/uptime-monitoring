@@ -4,31 +4,30 @@ repo: uptime-monitoring # The name of this repository
 
 sites:
   - name: Lumahealth
-    url: https://www.lumahealth.com/
-    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
+    url: $LUMAHEALTH_URL
+    icon: $ICON
     assignees:
       - copterjs
       
   - name: Lumatravel
-    url: https://buy.lumatravel.com/
-    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
+    url: $LUMATRAVEL_URL
+    icon: $ICON
     
   - name: Quote Lumahealth
-    url: https://quote.lumahealth.com/
-    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
+    url: $QUOTE_URL
+    icon: $ICON
     
   - name: LuMagic
-    url: https://lumaportal.lumahealth.com/login
-    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
+    url: $LUMAGIC_URL
+    icon: $ICON
     
   - name: Online Service
-    url: https://onlineservice.lumahealth.com/auth
-    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
+    url: $ONLINE_SERVICE_URL
+    icon: $ICON
 
   - name: Lumagix API
-    url: https://lumagix-api.lumahealth.com/
-    icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
-
+    url: $LUMAGIX_API_URL
+    icon: $ICON
     
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
@@ -45,7 +44,7 @@ status-website:
   baseUrl: /uptime-monitoring
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Luma Uptime Monitoring
-  favicon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.png
+  favicon: $ICON
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
