@@ -1,7 +1,7 @@
-url: https://onlineservice.lumahealth.com/auth
+url: $ONLINE_SERVICE_URL
 status: up
 code: 200
-responseTime: 212
-lastUpdated: 2025-02-03T08:10:36.706Z
+responseTime: 205
+lastUpdated: 2025-02-03T08:29:20.157Z
 startTime: 2025-02-03T08:10:36.490Z
 generator: Upptime <https://github.com/upptime/upptime>
