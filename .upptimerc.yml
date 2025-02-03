@@ -49,7 +49,7 @@ status-website:
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: https://luma-care.github.io/uptime-monitoring/
     - title: GitHub
       href: https://github.com/luma-care/uptime-monitoring/
 
