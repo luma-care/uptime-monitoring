@@ -3,17 +3,17 @@ owner: luma-care # Your GitHub organization or username, where this repository l
 repo: uptime-monitoring # The name of this repository
 
 sites:
-  - name: Lumahealth
+  - name: LUMA Health
     url: $LUMAHEALTH_URL
     icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
     assignees:
       - copterjs
       
-  - name: Lumatravel
+  - name: LUMA Travel
     url: $LUMATRAVEL_URL
     icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
     
-  - name: Quote Lumahealth
+  - name: LUMA Quote
     url: $QUOTE_URL
     icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
     
@@ -21,7 +21,7 @@ sites:
     url: $LUMAGIC_URL
     icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
     
-  - name: Online Service
+  - name: LUMA Online Service
     url: $ONLINE_SERVICE_URL
     icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
 
@@ -42,7 +42,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime-monitoring
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.lumahealth.com/wp-content/uploads/2024/10/LUMA-LOGO-webp.webp
   name: Luma Uptime Monitoring
   favicon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
