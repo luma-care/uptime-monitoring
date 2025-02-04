@@ -6,8 +6,6 @@ sites:
   - name: LUMA Health
     url: $LUMAHEALTH_URL
     icon: https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico
-    assignees:
-      - copterjs
       
   - name: LUMA Travel
     url: $LUMATRAVEL_URL
