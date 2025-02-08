@@ -22,18 +22,20 @@
     "url": "$LUMATRAVEL_URL",
     "icon": "https://www.lumahealth.com/wp-content/themes/luma/images/favicon.ico",
     "slug": "luma-travel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1734,
-    "timeDay": 1962,
-    "timeWeek": 1734,
-    "timeMonth": 1734,
-    "timeYear": 1734,
-    "dailyMinutesDown": {}
+    "time": 1604,
+    "timeDay": 1391,
+    "timeWeek": 1604,
+    "timeMonth": 1604,
+    "timeYear": 1604,
+    "dailyMinutesDown": {
+      "2025-02-08": 0
+    }
   },
   {
     "name": "LUMA Quote",
