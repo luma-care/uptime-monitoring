@@ -1,7 +1,7 @@
 url: $LUMATRAVEL_URL
-status: up
-code: 200
-responseTime: 1962
-lastUpdated: 2025-02-07T23:05:10.794Z
+status: down
+code: 500
+responseTime: 819
+lastUpdated: 2025-02-08T21:58:49.331Z
 startTime: 2025-02-04T03:52:01.503Z
 generator: Upptime <https://github.com/upptime/upptime>
